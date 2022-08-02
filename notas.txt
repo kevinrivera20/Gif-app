@@ -31,6 +31,17 @@ Hooks.
 UseEffect.
 	- useEffect puede hacer uso de lo que se conoce como "función de limpieza", que es una función que se ejecuta cuando el componente se desmonta, pero también cuando las dependencias cambian y antes de que el efecto se vuelva a ejecutar, o si es un useEffect sin array de dependencias, en cada rerender, sirve para disparar efectos secundarios, algún proceso que querramos ejecutar cuando algo suceda. 
 
+Temas puntuales de la sección
+¿Qué veremos en esta sección?
 
-Custom Hook.
-	-
+	-Aprender cómo realizar backups a repositorios de Git
+
+	-Subir nuestro repositorio a GitHub
+
+	-Uso de Github Pages
+
+	-Desplegar nuestra aplicación de React
+
+	-Generar build de producción de nuestra aplicación
+
+Aunque es una sección pequeña, les puede servir para desplegar infinidad de proyectos de React de forma gratuita, sin contar que tendrán respaldos de sus proyectos por si llegan a perder su trabajo que tenían localmente en su computadora.
