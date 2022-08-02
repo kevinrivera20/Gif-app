@@ -14,7 +14,7 @@
   input {
     background-color: white;
     border-radius: 5px;
-    border: 1px solid rgb(97, 32, 158);
+    border: 1px solid #B99BE1;
     color: black;
     font-size: 1.2rem;
     outline: none;
@@ -65,3 +65,6 @@
   .card img {
     width: 100%;
   }
+.title {
+  color: #0B5345;
+}

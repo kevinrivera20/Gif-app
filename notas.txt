@@ -24,6 +24,13 @@ Esta es una aplicación pequeña pero muy ilustrativa que explica cómo utilizar
 
 API KEY, jjWNnxm5PiSeJhTPQIZpOVd56Nzhldqg.
 
-Lista de categorias.
-    -
-	
+Hooks.
+	- Los hooks trabajan en react basados en su posición o ID, se manejan diferentes estados, pero todos se manejan posicionalmente.
+
+
+UseEffect.
+	- useEffect puede hacer uso de lo que se conoce como "función de limpieza", que es una función que se ejecuta cuando el componente se desmonta, pero también cuando las dependencias cambian y antes de que el efecto se vuelva a ejecutar, o si es un useEffect sin array de dependencias, en cada rerender, sirve para disparar efectos secundarios, algún proceso que querramos ejecutar cuando algo suceda. 
+
+
+Custom Hook.
+	-
